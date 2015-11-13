@@ -3,6 +3,10 @@ package algoritmer;
 import java.util.Arrays;
 import java.util.NoSuchElementException;
 
+/*
+*Av: Noora Aroon
+*/
+
 public class Oblig1 extends Test
 {
 	//oppg1
